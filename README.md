@@ -12,9 +12,9 @@ The `vuln.ko` module creates a character device at `/dev/vuln` with permissions 
 
 ## run example 
 ```
-make
-sudo insmod ./module/vuln.ko
-./example/example
+$ make
+$ sudo insmod ./module/vuln.ko
+$ ./example/example
 current uid: 1000
 triggering exploit...
 current uid: 0
