@@ -31,3 +31,12 @@
 # Debug files
 *.dSYM/
 *.su
+
+example/example
+module/vuln.ko
+module/vuln.mod.o
+module/modules.order
+module/Module.symvers
+module/vuln.mod.c
+module/main.o
+vuln/vuln.o
