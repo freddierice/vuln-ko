@@ -1,4 +1,5 @@
-CC=gcc
+CC=$(CROSS_COMPILE)gcc
+
 
 all: example
 
