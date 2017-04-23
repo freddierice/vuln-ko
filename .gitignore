@@ -39,4 +39,10 @@ module/modules.order
 module/Module.symvers
 module/vuln.mod.c
 module/main.o
+module/.main.o.cmd
+module/.tmp_versions
+module/.vuln.ko.cmd
+module/.vuln.mod.o.cmd
+module/.vuln.o.cmd
 vuln/vuln.o
+
